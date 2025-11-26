@@ -44,7 +44,7 @@ Antes de começar, garanta que você tenha o seguinte software instalado em sua 
 ## 📁 **Estrutura do Projeto**
 
 
-seu-projeto/
+jogo/
 <br>
 └── src/
 <br>
